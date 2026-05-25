@@ -1,10 +1,10 @@
-# fx-cli-bon v1.2.0
+# fx-cli-bon v1.2.1
 
 Release package for **ARM64/AMD64 Ubuntu (py3.10) support**.
 
 ## Download
 ```bash
-export lib_ver=1.2.0
+export lib_ver=1.2.1
 export py_ver=$(python3 -c 'import sys; print(f"{sys.version_info.major}{sys.version_info.minor}")')
 export arch=$(dpkg --print-architecture)
 
