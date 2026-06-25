@@ -32,7 +32,7 @@ sudo apt-get install -f
 설치가 정상적으로 완료되었는지 확인하려면 다음 명령어를 실행합니다.
 
 ```bash
-python3 -c "import fx_cli; print('fx_cli import success')"
+python3 -c "import fx_cli_bon;"
 ```
 
 ## Note
@@ -42,4 +42,4 @@ python3 -c "import fx_cli; print('fx_cli import success')"
 * 본 패키지에 포함되는 항목:
 
   * C++ 라이브러리
-  * Python 바인딩 모듈 (`fx_cli`)
+  * Python 바인딩 모듈 (`fx_cli_bon`)
